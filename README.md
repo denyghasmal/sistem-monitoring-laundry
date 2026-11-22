@@ -1,5 +1,12 @@
 # 🧺 Rancang Bangun Sistem Informasi Pemesanan & Monitoring Layanan Laundry Berbasis Mobile & Web
 
+> 🚀 **LIVE DEMO ONLINE (Siap Dicoba Langsung oleh Penguji / Dosen):**  
+> - 📱 **Web Portal Pelanggan:** [https://confidentiality-entrance-newark-cole.trycloudflare.com/portal](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal)  
+> - 🛒 **Form Pemesanan Laundry:** [https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/pesan](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/pesan)  
+> - 📍 **Lacak Progres Real-Time (9 Stepper):** [https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/lacak](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/lacak)  
+> - 🛠️ **Dashboard Operasional Gerai (Admin):** [https://confidentiality-entrance-newark-cole.trycloudflare.com/admin](https://confidentiality-entrance-newark-cole.trycloudflare.com/admin)  
+> - 📱 **Simulator Preview Layar HP:** [https://confidentiality-entrance-newark-cole.trycloudflare.com/simulator](https://confidentiality-entrance-newark-cole.trycloudflare.com/simulator)  
+
 Sistem informasi terpadu pemesanan dan pelacakan cucian secara real-time yang dikembangkan berdasarkan **Blueprint Rancang Bangun** dan **Analisis Jurnal Aplikasi Laundry**.
 
 Aplikasi ini mencakup:
@@ -98,15 +105,15 @@ Sistem akan menghasilkan link publik HTTPS (misal: `https://[nama-acak].trycloud
 
 ## 🌐 Daftar Halaman Aplikasi
 
-| Antarmuka | URL Akses | Deskripsi & Fitur |
+| Antarmuka | URL Live Demo | Deskripsi & Fitur |
 | :--- | :--- | :--- |
-| **Web Portal Pelanggan** | [http://127.0.0.1:8000/portal](http://127.0.0.1:8000/portal) | Katalog layanan laundry, estimasi biaya, dan pelacakan cepat. |
-| **Pemesanan Online** | [http://127.0.0.1:8000/portal/pesan](http://127.0.0.1:8000/portal/pesan) | Formulir order cucian, hitung total otomatis, opsi antar-jemput. |
-| **Lacak Status Real-Time** | [http://127.0.0.1:8000/portal/lacak](http://127.0.0.1:8000/portal/lacak) | Visual Stepper 9 tahapan pengerjaan cucian & kontak WhatsApp kurir. |
-| **Riwayat Transaksi** | [http://127.0.0.1:8000/portal/riwayat](http://127.0.0.1:8000/portal/riwayat) | Histori transaksi, rincian biaya, dan status pembayaran. |
-| **Dashboard Admin Gerai** | [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin) | Monitoring pesanan, update status cuci, dan penugasan kurir. |
-| **Simulator Layar HP** | [http://127.0.0.1:8000/simulator](http://127.0.0.1:8000/simulator) | Mockup preview interaktif aplikasi mobile Flutter. |
-| **Interactive API Explorer** | [http://127.0.0.1:8000/api-docs](http://127.0.0.1:8000/api-docs) | Dokumentasi lengkap 34 endpoint REST API. |
+| **Web Portal Pelanggan** | [Buka Portal Pelanggan](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal) | Katalog layanan laundry, estimasi biaya, dan pelacakan cepat. |
+| **Pemesanan Online** | [Buka Formulir Pesan](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/pesan) | Formulir order cucian, hitung total otomatis, opsi antar-jemput. |
+| **Lacak Status Real-Time** | [Buka Lacak Cucian](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/lacak) | Visual Stepper 9 tahapan pengerjaan cucian & kontak WhatsApp kurir. |
+| **Riwayat Transaksi** | [Buka Riwayat](https://confidentiality-entrance-newark-cole.trycloudflare.com/portal/riwayat) | Histori transaksi, rincian biaya, dan status pembayaran. |
+| **Dashboard Admin Gerai** | [Buka Dashboard Admin](https://confidentiality-entrance-newark-cole.trycloudflare.com/admin) | Monitoring pesanan, update status cuci, dan penugasan kurir. |
+| **Simulator Layar HP** | [Buka Simulator HP](https://confidentiality-entrance-newark-cole.trycloudflare.com/simulator) | Mockup preview interaktif aplikasi mobile Flutter. |
+| **Interactive API Explorer** | [Buka API Explorer](https://confidentiality-entrance-newark-cole.trycloudflare.com/api-docs) | Dokumentasi lengkap 34 endpoint REST API. |
 
 ---
 
