@@ -85,6 +85,17 @@ Server akan aktif di `http://127.0.0.1:8000`.
 
 ---
 
+### 3. Akses Demo Online via Cloudflare Tunnel (Tanpa Install bagi Dosen/Penguji)
+
+Agar aplikasi dapat diakses langsung oleh penguji atau dari smartphone di luar jaringan lokal tanpa perlu konfigurasi port forwarding:
+```bash
+# Jalankan Cloudflare Tunnel di terminal terpisah
+cloudflared tunnel --url http://127.0.0.1:8000
+```
+Sistem akan menghasilkan link publik HTTPS (misal: `https://[nama-acak].trycloudflare.com`) yang dapat langsung dibuka dari perangkat manapun di internet.
+
+---
+
 ## 🌐 Daftar Halaman Aplikasi
 
 | Antarmuka | URL Akses | Deskripsi & Fitur |
